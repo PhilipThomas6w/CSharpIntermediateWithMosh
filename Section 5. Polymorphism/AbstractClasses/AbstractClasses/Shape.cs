@@ -5,7 +5,7 @@ public abstract class Shape
     public int Width { get; set; }
     public int Height { get; set; }
 
-    public abstract void Draw();
+    public abstract void Draw();    // abstract method, must be implemented in any derived classes
 
     public void Copy()
     {
