@@ -1,0 +1,15 @@
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\bin\Debug\net7.0\Extensibility.exe
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\bin\Debug\net7.0\Extensibility.deps.json
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\bin\Debug\net7.0\Extensibility.runtimeconfig.json
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\bin\Debug\net7.0\Extensibility.dll
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\bin\Debug\net7.0\Extensibility.pdb
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\obj\Debug\net7.0\Extensibility.csproj.AssemblyReference.cache
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\obj\Debug\net7.0\Extensibility.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\obj\Debug\net7.0\Extensibility.AssemblyInfoInputs.cache
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\obj\Debug\net7.0\Extensibility.AssemblyInfo.cs
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\obj\Debug\net7.0\Extensibility.csproj.CoreCompileInputs.cache
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\obj\Debug\net7.0\Extensibility.dll
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\obj\Debug\net7.0\refint\Extensibility.dll
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\obj\Debug\net7.0\Extensibility.pdb
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\obj\Debug\net7.0\Extensibility.genruntimeconfig.cache
+F:\Repos\C# Learning Path\CSharpIntermediateWithMosh\Section 6. Interfaces\Extensibility\Extensibility\obj\Debug\net7.0\ref\Extensibility.dll
